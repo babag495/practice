@@ -1,2 +1,2 @@
 # practice
-this is a practice class
+this is a practice class.
